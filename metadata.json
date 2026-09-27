@@ -1,0 +1,6 @@
+{
+  "name": "UniFix - Campus Infrastructure & Damage Reporter",
+  "description": "Mobile-first university infrastructure management platform. Students and campus members report damages like cracked walls and leaks with photos and room tags in a private community feed, while estate admins manage work orders and repairs.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
